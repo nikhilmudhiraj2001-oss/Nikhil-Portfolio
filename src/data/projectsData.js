@@ -10,49 +10,49 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Nyayam - Case Data Management System',
-        projectDesc: 'Better case management: Created a system to share case data and improve communication between government pleaders (GPs), making case handling easier',
-        tags: ['React Js', 'Springboot', 'PostgreSQL'],
+        projectName: 'Procurement of Consulting Agencies',
+        projectDesc: 'Identified backward categories eligible for government onboarding, processed employee earnings and deductions, collected monthly HOD attendance, and generated accurate salary pay bills in compliance with government rules',
+        tags: ['Springboot', 'PostgreSQL','AWS'],
         // code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        image: four
     },
     {
         id: 2,
-        projectName: 'Development for Government Lottery System',
-        projectDesc: 'Fair plot allocation: Developed a backend system for a lottery-based plot allocation project, implementing a random beneficiary selection algorithm to ensure fair and transparent distribution of plots.',
-        tags: ['Springboot', 'React Js','PostgreSQL'],
+        projectName: 'EMPLOYEE WORK MONITORING SYSTEM (EWMS)',
+        projectDesc: 'Centralized tool to capture government requirements, assign tasks, track development lifecycle progress, and manage deployment tickets, ensuring transparency, accountability, timely delivery, and quality compliance standards collaboration',
+        tags: ['Springboot','PostgreSQL','AWS'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
    {
     id: 3,
-    projectName: 'Job Portal',
-    projectDesc: 'A role-based job portal developed using Spring Boot, React.js, and PostgreSQL. The platform includes separate dashboards for job seekers and recruiters, allowing recruiters to post openings and job seekers to apply efficiently.',
-    tags: ['Spring Boot', 'React.js', 'PostgreSQL'],
+    projectName: 'Dearness Allowance Arrears',
+    projectDesc: 'DA Arrears Management System automates calculation and disbursement of government employees’ arrears in three installments, ensuring accuracy, compliance with GOs, minimizing manual effort, and streamlining the process efficiently.',
+    tags: ['Spring Boot', 'PostgreSQL','AWS'],
     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     image: three
 },
-{
-    id: 4,
-    projectName: 'Building & Other Construction Workers Welfare Board (BOCW)',
-    projectDesc: 'A welfare management system for construction workers with online registration, verification, ID generation, and payment gateway integration.',
-    tags: ['Spring Boot', 'React.js', 'PostgreSQL'],
-    code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    image: four
-},
-{
-    id: 6,
-    projectName: 'Labour Department System',
-    projectDesc: 'A digital platform for labor welfare operations including registration, verification, approval, and automated report generation.',
-    tags: ['Spring Boot', 'React.js', 'PostgreSQL'],
-    code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    image: six
-}
+// {
+//     id: 4,
+//     projectName: 'Building & Other Construction Workers Welfare Board (BOCW)',
+//     projectDesc: 'A welfare management system for construction workers with online registration, verification, ID generation, and payment gateway integration.',
+//     tags: ['Spring Boot', 'React.js', 'PostgreSQL'],
+//     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+//     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+//     image: four
+// },
+// {
+//     id: 6,
+//     projectName: 'Labour Department System',
+//     projectDesc: 'A digital platform for labor welfare operations including registration, verification, approval, and automated report generation.',
+//     tags: ['Spring Boot', 'React.js', 'PostgreSQL'],
+//     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+//     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+//     image: six
+// },
 
 // {
 //     id: 5,
@@ -72,8 +72,6 @@ export const projectsData = [
 //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
 //     image: six
 // }
-
-    
 ]
 
 

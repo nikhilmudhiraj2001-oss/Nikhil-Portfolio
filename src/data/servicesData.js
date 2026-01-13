@@ -5,11 +5,11 @@ import { AiOutlineCloud, AiOutlineApi } from "react-icons/ai";
 import { FaDatabase, FaServer, FaReact, FaJava } from "react-icons/fa";
 
 export const servicesData = [
-  {
-    id: 1,
-    title: "Full-Stack Web Development",
-    icon: <BsCodeSlash />,
-  },
+  // {
+  //   id: 1,
+  //   title: "Full-Stack Web Development",
+  //   icon: <BsCodeSlash />,
+  // },
   {
     id: 2,
     title: "Java Spring Boot Backend",
@@ -20,11 +20,11 @@ export const servicesData = [
     title: "REST API Development",
     icon: <AiOutlineApi />,
   },
-  {
-    id: 4,
-    title: "React.js Frontend Development",
-    icon: <FaReact />,
-  },
+  // {
+  //   id: 4,
+  //   title: "React.js Frontend Development",
+  //   icon: <FaReact />,
+  // },
   {
     id: 5,
     title: "Database Design & Management",

@@ -1,8 +1,8 @@
 export const socialsData = {
-    github: 'https://github.com/koshike-saikumar',
+    github: 'https://github.com/nikhilmudhiraj2001-oss',
     //facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in/koshike-saikumar',
-    instagram: 'https://www.instagram.com/koshike_saikumar/',
+    linkedIn: 'https://www.linkedin.com/in/yella-nikhil-kumarr',
+    instagram: 'https://www.instagram.com/_nikhil_yella_/',
    // codepen: 'https://codepen.io/',
    // twitter: 'https://twitter.com/',
     //reddit: 'https://www.reddit.com/user/',
@@ -10,5 +10,5 @@ export const socialsData = {
     //medium: 'https://medium.com/@',
     //stackOverflow: 'https://stackoverflow.com/users/',
    // gitlab: 'https://gitlab.com/',
-    youtube: 'https://www.youtube.com/@saikumarkoshike1367'
+    // youtube: 'https://www.youtube.com/@saikumarkoshike1367'
 }

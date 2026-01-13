@@ -1,16 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'VISION 40',
-        course: 'Higher Secondary Education',
+        institution: 'St. Mary’s College of Engineering and Technology',
+        course: 'Diploma',
         startYear: '2016',
-        endYear: '2018'
+        endYear: '2019'
     },
     {
         id: 2,
-        institution: 'Malla Reddy College of Engineering',
+        institution: 'Narsimha Reddy Engineering College',
         course: 'Bachelor of Technology',
-        startYear: '2018',
+        startYear: '2019',
         endYear: '2022'
     },
     // {
